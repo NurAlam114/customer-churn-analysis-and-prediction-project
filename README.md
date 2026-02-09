@@ -58,6 +58,9 @@ This result serves as a strong baseline with clear scope for further improvement
 - Churn prediction remains challenging due to class imbalance
 - Evaluation metrics were chosen to reflect real-world business scenarios
 
+- it deploy in web brower for user freandly
+- deployment link: https://nuralam114-customer-churn-analysis-and-predict-deployapp-vctot8.streamlit.app/
+
 ---
 
 🚀 Future Improvements
